@@ -1,0 +1,11 @@
+/Users/aby/Projects/JobListingApp/Library/bin/Debug/net8.0/Library.deps.json
+/Users/aby/Projects/JobListingApp/Library/bin/Debug/net8.0/Library.dll
+/Users/aby/Projects/JobListingApp/Library/bin/Debug/net8.0/Library.pdb
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/Library.AssemblyInfo.cs
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/Library.csproj.CoreCompileInputs.cache
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/Library.dll
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/refint/Library.dll
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/Library.pdb
+/Users/aby/Projects/JobListingApp/Library/obj/Debug/net8.0/ref/Library.dll

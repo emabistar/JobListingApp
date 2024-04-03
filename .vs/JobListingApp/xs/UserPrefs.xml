@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{53AF7E65-D7DD-42DC-86CB-9D70F22EA1D7}|https">
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppServer/Program.cs">
+    <Files>
+      <File FileName="MauListing/Pages/Index.razor" />
+      <File FileName="MauListing/MainPage.xaml" />
+      <File FileName="MauListing/MauiProgram.cs" Line="2" Column="1" />
+      <File FileName="MauListing/MauListingApp.csproj" Line="75" Column="3" />
+      <File FileName="AppServer/Program.cs" Line="11" Column="49" />
+      <File FileName="AppServer/Server.csproj" Line="19" Column="88" />
+      <File FileName="Library/Models/Category.cs" Line="13" Column="53" />
+      <File FileName="Library/Models/CompanyInfo.cs" Line="20" Column="51" />
+      <File FileName="Library/Models/GetJob.cs" Line="22" Column="48" />
+      <File FileName="Library/Models/Login.cs" Line="1" Column="1" />
+      <File FileName="Library/Models/PostJob.cs" Line="31" Column="44" />
+      <File FileName="Library/Models/Registration.cs" Line="10" Column="61" />
+      <File FileName="Library/Models/ServiceReponse.cs" Line="8" Column="4" />
+      <File FileName="Library/Models/JobMode.cs" Line="7" Column="42" />
+      <File FileName="Library/Models/RegistrationModel.cs" Line="18" Column="53" />
+      <File FileName="Library/Models/ServiceResponse.cs" Line="8" Column="59" />
+      <File FileName="Library/Models/CategoryWithNumberOfJobs.cs" Line="8" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobListingApp" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="MauListingApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Server" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
